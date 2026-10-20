@@ -1,0 +1,6 @@
+{
+  "name": "VIBE TV",
+  "description": "Real-time 1-on-1 video chat and matching app with dark neon vibe, real-time presence matching, WebRTC signaling, reactions, and messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
